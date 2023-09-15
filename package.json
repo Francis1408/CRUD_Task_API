@@ -1,0 +1,21 @@
+{
+  "name": "crud_task_api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "run": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francis1408/CRUD_Task_API.git"
+  },
+  "author": "Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francis1408/CRUD_Task_API/issues"
+  },
+  "homepage": "https://github.com/Francis1408/CRUD_Task_API#readme"
+}
